@@ -9,11 +9,11 @@ import Search_Page from './components/routes/Search_Page';
 class App extends React.Component {
   render() {
     return (
-      [
-        // Routing to two seperate States 
+      <div>
+        {/* Routing to two seperate States */}
         <Route exact path="/" component={Main_Page} />,
         <Route exact path="/search" component={Search_Page} />
-      ]
+      </div>
     );
   }
 }
