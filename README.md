@@ -2,12 +2,8 @@
 
 MyReads is a Book lending App that helps you organize your books according to your reading status.It also provides a functionality to search books online and add them to your collection. 
 
-## Instructions for installing and running
+## Instructions
 
-Execute the following commands for 
+* To install run `npm install`
 
-* installation with `npm install`
-
-And to
-
-* Launch with `npm start`
+* Now launch with `npm start`
